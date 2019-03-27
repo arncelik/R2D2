@@ -13,3 +13,5 @@ Artificial Intelligence, Deep Learning and Machine Learning studies.
   * Codes
   * Projects
   * Ideas
+  * Fun
+  
