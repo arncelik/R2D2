@@ -1,1 +1,1 @@
-Projects developed for fun.
+Successful and failed projects, games, and all.  
